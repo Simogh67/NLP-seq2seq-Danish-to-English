@@ -1,5 +1,5 @@
 # NLP-seq2seq-Danish-to-english
-This repository includes a neural machine translation system based on the sequence-to-sequence attention model [1] for translating Danish phrases to English. 
+This repository includes a neural machine translation system based on the sequence-to-sequence attention model (the codes in this repository are inspired from [1] ) for translating Danish phrases to English. 
 The dataset is available from the ManyThings.org website [2] with examples drawn from the Tatoeba Project. 
 The dataset is comprised of Danish phrases and their English counterparts. 
 # How to run 
