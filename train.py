@@ -12,7 +12,7 @@ loss_object = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True,
 #inputs 
 file='./dan.txt'
 batch_size=40
-epochs=5
+epochs=10
 embedding_dim = 256
 units = 1024
 
