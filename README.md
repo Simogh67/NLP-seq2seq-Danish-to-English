@@ -4,7 +4,7 @@ The dataset is available from the ManyThings.org website [2] with examples drawn
 The dataset is comprised of Danish phrases and their English counterparts. 
 # How to run 
 To train the model, please run python train.py, which trains the model and saves the encoder and decoder. 
-Then, to translate the danish phrases run python main.py "your_phrase", which generates the translation of the phrase in English. 
+Then, to translate the danish phrases run python main.py "your_phrase", which generates the translation of the phrase to English. 
 Script, train.py contains codes to translate Danish phrases, and train.py includes codes in Tnesorflow to train the model. 
 # Result
 The model is able to translate correctly phrases that are comparatively close to phrases existed in training data. 
