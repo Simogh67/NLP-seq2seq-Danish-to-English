@@ -9,11 +9,17 @@ Script train.py contains codes to translate Danish phrases, and train.py include
 # Result
 The model is able to translate correctly phrases that are comparatively close to phrases existed in training data. 
 For instance, the model translates jeg er glad i dag to I am happy today, which is true. The other examples: 
+
 hun elskede ham > she loved him.
+
 Jeg arbejder i dag > I am working today.
+
 hun er rig > she is rich.
+
 Jeg ventede på en bus > I was waiting for a bus. 
+
 er du skør > you are crazy. 
+
 To improve the model, multiple GRUs and a larger dataset can be used.  
 # References
 [1]. https://www.tensorflow.org/text/tutorials/nmt_with_attention#test_the_attention_layer
